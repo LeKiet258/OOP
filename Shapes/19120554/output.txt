@@ -1,0 +1,18 @@
+17
+Circle: 92,41 54,3
+Circle: 89,40 46,83
+Line: 27,30 12,58
+Line: 37,78 22,94
+Line: 77,47 94,64
+Line: 42,5 72,71
+Line: 5,75 84,42
+Line: 26,7 23,71
+Circle: 31,73 38,80
+Rectangle: 40,95 83,8
+Circle: 53,8 13,48
+Circle: 73,52 38,87
+Rectangle: 57,7 42,88
+Line: 28,57 18,46
+Circle: 26,15 65,54
+Circle: 32,31 54,53
+Circle: 26,51 21,56

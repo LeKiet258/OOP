@@ -1,0 +1,47 @@
+Name: Đỗ Tùng Hùng
+Student ID: 19120806
+Citizen ID: 044270218737
+Telephone: 0596464252 (GMobile)
+Email: DTHung@gmail.com
+Address: 96 Nguyễn Thái Bình, Phường Cầu Kho, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 22/04/1995
+
+Name: Lưu Bá Đức
+Student ID: 19120294
+Citizen ID: 092299315080
+Telephone: 0587174993 (Vietnamobile)
+Email: LBDuc@shaw.ca
+Address: 131 Nguyễn Trung Ngạn, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 22/03/2007
+
+Name: Lưu Ngọc Công
+Student ID: 19120060
+Citizen ID: 056216177329
+Telephone: 0811970290 (Vinaphone)
+Email: LNCong@hotmail.co.uk
+Address: 171 Huỳnh Khương Ninh, Phường Cô Giang, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 30/08/2000
+
+Name: Nguyễn Tường Bách
+Student ID: 19120260
+Citizen ID: 079266715948
+Telephone: 0992149990 (GMobile)
+Email: NTBach@outlook.com
+Address: 16 Nguyễn Văn Đượm, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 13/10/2016
+
+Name: Đặng Toàn Việt
+Student ID: 19120507
+Citizen ID: 091374462689
+Telephone: 0335537419 (Viettel)
+Email: DTViet@aol.com
+Address: 77 Tôn Đức Thắng, Phường Cầu Ông Lãnh, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 14/01/2010
+
+Name: Phạm Thanh Sơn
+Student ID: 19120647
+Citizen ID: 086342274577
+Telephone: 0933282084 (Mobiphone)
+Email: PTSon@facebook.com
+Address: 165 Nguyễn Văn Đượm, Phường Bến Thành, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 18/05/1993

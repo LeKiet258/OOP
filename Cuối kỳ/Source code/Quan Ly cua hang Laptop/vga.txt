@@ -1,0 +1,28 @@
+15
+NVIDIA GeForce GTX 1650 4 GB
+NVIDIA GeForce GTX 1650Ti 4 GB
+AMD Radeon RX 5600M, 6GB
+AMD Radeon Graphic
+NVIDIA GeForce RTX3050Ti, 4 GB
+Card tích hợp 7 nhân GPU
+NVIDIA GeForce GTX 1660Ti, 6 GB
+Intel Iris Xe Graphics
+NVIDIA GeForce RTX2070
+NVIDIA GeForce RTX 3070, 8 GB
+NVIDIA GeForce RTX 3060 Max-Q, 6 GB
+NVIDIA Quadro P520, 4 GB
+NVIDIA GeForce MX350, 2 GB
+AMD Radeon Pro 5300M
+Không
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+40
+Intel Core i7 2.6GHz 6-core
+8 nhân với 4 nhân hiệu năng cao và 4 nhân tiết kiệm điện
+Atom Quad Core
+Intel Pentium 1.10 GHz
+Intel Pentium MMX
+Intel Atom
+Intel Celeron
+Intel Pentium Pro
+Pentium II
+Pentium III
+Pentium Dual-Core
+Intel Core i7 Tiger Lake, 3.30 GHz
+Intel Core i7 Tiger Lake, 2.30 GHz
+Intel Core i7 Comet Lake, 10750H, 2.60 GHz
+AMD Ryzen 7, 3.00 GHz
+AMD Ryzen 5, 3.00 GHz
+AMD Ryzen 5, 3.30 GHz
+AMD Ryzen 7, 2.30 GHz
+AMD Ryzen 5, 2.10 GHz
+Intel Core i7 Tiger Lake, 2.30 GHz
+Intel Core i5 Tiger Lake, 2.70 GHz
+Intel Core i5 Tiger Lake, 2.40 GHz
+Intel Core i5 Comet Lake, 2.50 GHz
+Intel Core i5 (Gen 5) 8365U/1.60 GHz
+Intel Core i3 (Gen 8) 8012U/1.60 GHz
+Intel Core i9-10900X X 3,70 GHz
+Intel Core i9-10940X X 3,30 GHz
+Intel Core i3-11100B Processor 3.60 GHz
+Intel Core i3-1115G4E 90 GHz
+Intel Core i3-1120G4 3,50 GHz
+Intel Core i3-1110G4 3,90 GHz
+Intel Core i9-11900H
+Intel Core i5-1155G7
+Intel Core i5-11400 Processor
+Intel Core i3 Tiger Lake, 2.00 GHz
+Intel Core i5 Comet Lake, 2.50 GHz
+Intel Core i3 Clarkdale, 2.00 GHz
+Intel Core i3 Ice Lake, 1005G, 11.20 GHz
+AMD RYZEN 5 3600XT 3.8 GHz
+Intel Core i5 Comet Lake, 1.60 GHz

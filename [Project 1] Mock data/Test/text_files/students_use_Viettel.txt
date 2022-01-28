@@ -1,0 +1,15 @@
+Name: Đặng Toàn Việt
+Student ID: 19120507
+Citizen ID: 091374462689
+Telephone: 0335537419 (Viettel)
+Email: DTViet@aol.com
+Address: 77 Tôn Đức Thắng, Phường Cầu Ông Lãnh, Quận 1, Thành Phố Hồ Chí Minh
+Birthday: 14/01/2010
+
+Name: Hoàng Anh Duy
+Student ID: 19120584
+Citizen ID: 017390139789
+Telephone: 0972061948 (Viettel)
+Email: HADuy@ig.com.br
+Address: 585 Đường số 43, Phường Cát Lái, Quận Thủ Đức, Thành Phố Hồ Chí Minh
+Birthday: 08/05/2001

@@ -1,0 +1,7 @@
+6
+Manager Employee: 1 3000
+Daily Employee: 47 28
+Daily Employee: 2 28
+Manager Employee: 4 3000
+Daily Employee: 40 28
+Product Employee: 58 41

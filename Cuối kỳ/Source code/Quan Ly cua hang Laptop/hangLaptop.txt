@@ -1,0 +1,206 @@
+18
+Lenovo
+16
+Lenovo ThinkPad E15
+Lenovo ThinkPad T14 Gen 1
+Lenovo ThinkPad E14
+Lenovo IdeaPad Gaming 3
+Lenovo IdeaPad 3 15ITL6
+Lenovo Yoga 9
+Lenovo YOGA Slim 7 Carbon 13ITL5
+Lenovo Yoga Duet 7 13IML05
+Lenovo Yoga 7 14ITL5 i7 1165G7
+Lenovo ThinkBook 14s G2 ITL
+Lenovo ThinkPad P15s Gen 1
+Lenovo ThinkBook 14-IIL
+Lenovo ThinkPad T15 Gen 1
+Lenovo ThinkPad T480
+Lenovo ThinkPad X1 Carbon Gen 8
+Lenovo ThinkPad E14 Gen 2
+HP
+12
+HP Spectre x360 15
+HP Chromebook x360
+HP ENVY 13
+HP Laptop
+HP ENVY 17
+HP ENVY 15
+HP Pavilion 15
+HP Chromebook Clamshell
+OMEN
+HP Pavilion x360
+HP Pavilion Gaming
+HP Pavilion 14
+Dell
+15
+Inspiron 15 2-in-1 (Black) Laptop
+New Inspiron 15 Laptop
+Inspiron 15 2-in-1 Laptop
+Inspiron 15 Plus Laptop
+New Inspiron 16 Plus Laptop
+Inspiron 15 3000 Laptop
+New Inspiron 15 Touch Laptop
+Alienware x15 Gaming Laptop
+Alienware x17 Gaming Laptop
+G15 Ryzen™ Edition Gaming Laptop
+New G15 Gaming Laptop
+G7 15 Gaming Laptop
+G15 Ryzen™ Edition Gaming Laptop
+XPS 13 Laptop
+XPS 17 Laptop
+Apple
+3
+MacBook Air
+MacBook Pro 13”
+MacBook Pro 16”
+Acer
+11
+Acer Nitro 5 Gaming AN515 45 R3SM
+Acer Aspire 7 Gaming A715 42G R4ST
+Acer Nitro 5 Gaming AN515 57 74NU
+Acer Nitro 5 A515 55 72R2
+Acer Swift 3 SF313 51
+Acer Swift 5 SF514 53T
+Acer Aspire A514 54
+Acer Aspire A315 56 34AY
+Acer Predator Helios PH315 54 78W5
+Acer Aspire A315 56 308N
+Acer Chromebook 514
+Asus
+11
+Asus TUF Gaming FX516PM
+Asus TUF Gaming FX706HE
+Asus ZenBook UX425EA
+Asus Rog Zephyrus Gaming G14 GA401QH R7
+Asus VivoBook A515EP
+Asus VivoBook X515EP
+Asus VivoBook X415EA
+Asus VivoBook A515EA
+ProArt StudioBook One W590
+ProArt StudioBook 17 H700
+ProArt StudioBook Pro X W730
+Axioo
+3
+MyBook GO
+MyBook 14+
+MyBook PRO
+Fujitsu
+23
+Lifebook AH530
+Lifebook AH531
+Lifebook AH532/A532
+LifeBook AH550
+LifeBook AH551
+Lifebook AH56/G
+LifeBook BH531
+LifeBook E751
+LifeBook LH520
+LIFEBOOK LH531 FPCR46271
+Lifebook MH30/G
+LifeBook MH330
+LifeBook NH532/N532
+LifeBook NH751
+LifeBook SH530
+LifeBook T730
+Lifebook P770
+Lifebook P771
+Lifebook PH520
+Lifebook T580 Tablet PC
+Lifebook T900 Tablet PC
+Lifebook TH700 Tablet PC
+Lifebook UH900
+Lava
+5
+Lava Helium 14 C141 
+Lava Helium T100 
+Lava Helium C121 
+Lava Helium 14 
+Lava Helium 12 
+Meebox
+3
+Meebox Meelap 4K Gen2
+Meebox Meelap 4K Gen3
+Meebox Slate Gen3
+iball
+14
+iBall CompBook Netizen 
+iBall CompBook M500 
+iBall Slide WQ149R 
+iBall Flip X5 
+iBall CompBook Exemplaire 
+iBall Slide WQ149 
+iBall Slide WQ191C
+iBall CompBook OHD 
+iBall CompBook MERIT-G9 
+iBall CompBook Exemplaire Plus 
+iBall CompBook PREMIO-V2.0 
+iBall CompBook Marvel 6 
+iBall CompBook Excelance 
+iBall CompBook i360 
+Hasee
+4
+LAPTOP HASEE Z6-CT5NA
+Laptop HASEE Elegant A480B-A29D1
+Hasee TX8-CU5DK Laptop
+Hasee ZX6-CU5DA Laptop
+Panasonic
+4
+Panasonic Toughbook Ultrabook
+PANASONIC CF-54E8900KM
+PANASONIC TOUGHBOOK CF-20 LAPTOP
+PANASONIC TOUGHBOOK CF-532JCZYCM LAPTOP
+Sony
+6
+Sony Vaio SVE1413YPNB 
+Sony Vaio E1411A 
+Sony Vaio SVF15A13SNB 
+Sony Vaio SVF1521ASNB 
+Sony Canvas Vaio Z 
+Sony Vaio VJS131X0211B 
+Vizio
+4
+Vizio C15
+Vizio CN15
+Vizio CT15T-B1 Thin+Light Touch
+Vizio Thin+Light CT14
+Xiaomi
+17
+Mi Notebook Pro X 15 
+Xiaomi RedmiBook Pro 15 Ryzen Edition 
+Xiaomi RedmiBook Pro 14 Ryzen Edition 
+Mi Notebook Pro 14
+Mi Notebook Pro 15
+Xiaomi RedmiBook Pro 15
+Xiaomi RedmiBook Pro 14
+Xiaomi Redmi G 
+Xiaomi RedmiBook Air 13
+Xiaomi RedmiBook 16 
+Xiaomi RedmiBook 14 II 
+Xiaomi Mi Notebook 14 Horizon Edition
+Xiaomi Mi Notebook 14
+Xiaomi RedmiBook 16 Ryzen Edition
+Xiaomi Mi Notebook Pro 15 Enhanced Edition
+Xiaomi Mi Gaming Laptop 2019
+Xiaomi Mi Notebook Air 12.5-inch (2019) 
+LG – Gram
+4
+LG Ultra Lightweight & High Performance Laptop
+LG gram Ultra-Lightweight and Slim Laptop
+LG gram 15' Ultra-Lightweight Laptop
+LG gram 16' Ultra-Lightweight Laptop
+Medion – Akoya
+4
+Medion Akoya E1232T-MD99410
+Medion Akoya E6241-MD98562
+Medion Akoya E6416
+Medion Akoya E7416T
+abc1
+0
+abc2
+0
+abc3
+0
+abc4
+0
+abc5
+0
